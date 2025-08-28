@@ -24,8 +24,7 @@ Public repository for releases of loading screen skip.
 Install via the [Nexus](https://raidcore.gg/Nexus) Addon Library or download the latest `fastloadingscreen.dll` from the [Releases](https://github.com/RaidcoreGG/GW2-FastLoad-Releases/releases) and place in `<Guild Wars 2>/addons`.
 
 ## How it works
-This addon makes runtime modifications to patch the timeout of loading models &amp; players from 60 seconds down to 100 milliseconds.
-The same functionality used to exist within ArcDPS but was removed - as far as we know - due to the potential for abuse in competitive gamemodes.
+This addon makes runtime modifications to patch the timeout of loading models &amp; players from 60 seconds down to 150 milliseconds.
 
 ## Limitations
 - Loading screens aren't skipped entirely but on average take 2 seconds.
